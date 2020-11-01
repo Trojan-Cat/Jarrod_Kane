@@ -1,12 +1,13 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/Jarrod_Kane1">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Jarrod Kane | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/jarrodkane/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Jarrods's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+<a href="https://www.twitch.tv/jarrod_kane">
+  <img align="left" alt="Jarrods's Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/twitch.svg" />
+</a>
 
 <br />
 
@@ -17,7 +18,7 @@ Hi, I'm Jarrod, a Developer 🚀 from Australia.
 
 - 👨🏽‍💻 I’m currently working on a react pomodoro timer;
 - 🌱 I’m currently learning React, graphql, nodejs; 
-- 💬 I stream my work live on [twtich](https://www.twitch.tv/jarrod_kane)
+- 💬 I stream my work live on [twitch](https://www.twitch.tv/jarrod_kane)
 - 📫 How to reach me: [@Jarrod_kane1](https://twitter.com/Jarrod_Kane1);
 - 📝[LinkedIn JarrodKane](https://www.linkedin.com/in/jarrodkane/)
 
