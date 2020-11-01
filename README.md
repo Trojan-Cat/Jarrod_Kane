@@ -10,7 +10,7 @@
 
 <br />
 
-Hi, I'm [Jarrod](https://blog.abhisheknaidu.tech/), a Developer 🚀 from Australia.
+Hi, I'm Jarrod, a Developer 🚀 from Australia.
 
   
 **Talking about Personal Stuffs:**
