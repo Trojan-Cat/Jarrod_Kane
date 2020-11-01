@@ -32,8 +32,6 @@ Hi, I'm Jarrod, a Developer 🚀 from Australia.
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Vue.js       6 hrs 25 mins   ██████████████░░░░░░░░░░░   56.32 % 
-C++          4 hrs 44 mins   ██████████▒░░░░░░░░░░░░░░   41.62 % 
-Text         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
