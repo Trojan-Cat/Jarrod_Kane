@@ -33,6 +33,6 @@ Hi, I'm Jarrod, a Developer 🚀 from Australia.
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+YAML       3 mins          ████████████████████████░   96.62 % 
 ```
 <!--END_SECTION:waka-->
