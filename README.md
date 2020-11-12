@@ -33,7 +33,6 @@ Hi, I'm Jarrod, a Developer 🚀 from Australia.
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   56 mins         █████████████████▒░░░░░░░   69.84 % 
-VimL         24 mins         ███████▓░░░░░░░░░░░░░░░░░   30.16 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
