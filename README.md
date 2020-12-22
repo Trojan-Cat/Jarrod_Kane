@@ -16,7 +16,7 @@ Hi, I'm Jarrod, a Developer 🚀 from Australia.
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on a react pomodoro timer;
+- 👨🏽‍💻 I’m currently working on a job searching app;
 - 🌱 I’m currently learning React, nodejs; 
 - 💬 I stream my work live on [twitch](https://www.twitch.tv/jarrod_kane)
 - 📫 How to reach me: [@Jarrod_kane1](https://twitter.com/Jarrod_Kane1);
