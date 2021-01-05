@@ -5,9 +5,6 @@
 <a href="https://www.linkedin.com/in/jarrodkane/">
   <img align="left" alt="Jarrods's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.twitch.tv/jarrod_kane">
-  <img align="left" alt="Jarrods's Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/twitch.svg" />
-</a>
 
 <br />
 
