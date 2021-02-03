@@ -13,7 +13,7 @@ Hi, I'm Jarrod, a Developer 🚀 from Australia.
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on a job searching app;
+
 - 🌱 I’m currently learning React, nodejs, TypeScript; 
 - 📝[LinkedIn JarrodKane](https://www.linkedin.com/in/jarrodkane/)
 
