@@ -14,7 +14,7 @@ Hi, I'm Jarrod, a Developer 🚀 from Australia.
 **Talking about Personal Stuffs:**
 
 
-- 🌱 I’m currently learning React, nodejs, tailwindcss; 
+- 🌱 I’m currently learning React, nodejs, tailwindcss, TypeScript; 
 - 📝[LinkedIn JarrodKane](https://www.linkedin.com/in/jarrodkane/)
 
 **Languages and Tools:**  
