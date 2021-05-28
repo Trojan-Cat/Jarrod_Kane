@@ -8,7 +8,7 @@
 Hi, I'm Jarrod, a Developer 🚀 from Australia.
 
   
-**Talking about Personal Stuffs:**
+**Fun Stuff:**
 
 
 - 🌱 I’m currently learning React, nodejs, tailwindcss, TypeScript; 
