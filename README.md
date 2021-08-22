@@ -6,13 +6,15 @@
 <br />
 
 Hi, I'm Jarrod, a Developer 🚀 from Australia.
+- 📝[Website](https://www.jarrodkane.com/)
+- 📝[Twitter](https://twitter.com/grime_goblin)
+- 📝[LinkedIn JarrodKane](https://www.linkedin.com/in/jarrodkane/)
 
   
 **Fun Stuff:**
 
-
 - 🌱 I’m currently learning React, nodejs, tailwindcss, TypeScript; 
-- 📝[LinkedIn JarrodKane](https://www.linkedin.com/in/jarrodkane/)
+
 
 **Languages and Tools:**  
 
