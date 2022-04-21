@@ -6,7 +6,7 @@
 <br />
 
 Hi, I'm Jarrod, a Developer 🚀 from Australia.
-- 📝[Website](https://www.jarrodkane.com/)
+- 📝[Blog](https://blog.jarrodkane.com)
 - 📝[Twitter](https://twitter.com/grime_goblin)
 - 📝[LinkedIn JarrodKane](https://www.linkedin.com/in/jarrodkane/)
 - 🎥[Tech Youtube](https://www.youtube.com/channel/UCwBJ5gLp3trHUDtDjZvQH2Q)
