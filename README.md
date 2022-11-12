@@ -13,7 +13,7 @@ Hi, I'm Jarrod, a Developer 🚀 from Australia.
   
 **Fun Stuff:**
 
-- 🌱 I’m currently checking out Svelte, React, nodejs, tailwindcss, TypeScript; 
+- 🌱 I’m currently checking out Graphql, Prisma, Supabase, Svelte, React, nodejs, tailwindcss, TypeScript; 
 
 
 **Languages and Tools:**  
