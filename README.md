@@ -26,10 +26,8 @@ Hi, I'm Jarrod, a Developer 🚀 from Australia.
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
-```text
-Svelte       36 mins         ██████████████████▓░░░░░░   74.76 %
-TypeScript   6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
-Bash         5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
+```txt
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
