@@ -9,10 +9,6 @@ Hi, I'm Jarrod, a Developer 🚀 from Australia.
 - 📝[LinkedIn JarrodKane](https://www.linkedin.com/in/jarrodkane/)
 - 🎥[Tech Youtube](https://www.youtube.com/channel/UCwBJ5gLp3trHUDtDjZvQH2Q)
 
-  
-**Fun Stuff:**
-
-- 🌱 Trying to get better at TypeScript 
 
 
 **Languages and Tools:**  
