@@ -27,7 +27,7 @@ Hi, I'm Jarrod, a Developer 🚀 from Australia.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 47 mins    █████████████████████████   100.00 %
+TypeScript   29 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
