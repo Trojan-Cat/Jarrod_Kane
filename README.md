@@ -23,8 +23,7 @@ Hi, I'm Jarrod, a Developer 🚀 from Australia.
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         5 mins          █████████████████████░░░░   83.70 %
-TypeScript   1 min           ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
